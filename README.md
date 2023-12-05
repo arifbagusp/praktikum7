@@ -3,8 +3,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Fadzar Surya Wijaya |
-| **NIM** | 312310451 |
+| **Nama** | Arif Bagus Pramono |
+| **NIM** | 312310445 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
