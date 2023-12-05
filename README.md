@@ -245,7 +245,7 @@ while True:
 ### Hasil Program 
 ![1](Gambar/L.png)
 
-### *Hasil hanya sebagin dari fungsi program*
+### *Hasil hanya sebagian dari fungsi program*
 
 ## Flowchart
 <img src="Flowchart/flowchart.png"># praktikum7
